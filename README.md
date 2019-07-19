@@ -26,7 +26,7 @@ So, LSTM gives us the most Control-ability and thus, Better Results.
 But also comes with more Complexity and Operating Cost.
 
 # Additional Files
-In this project, I have used the 6B 50D glove vector to build embedding matrx of words available in the glove vector.<br>
+In this project, I have used the 6B 50D glove vector to build embedding matrix of words available in the glove vector.<br>
 Download the 6B.50.50d.txt file and extract the file in the same directory as that of the code.<br>
 Downloading Link-> [glove.6B.50D.txt](https://www.kaggle.com/watts2/glove6b50dtxt)
 
